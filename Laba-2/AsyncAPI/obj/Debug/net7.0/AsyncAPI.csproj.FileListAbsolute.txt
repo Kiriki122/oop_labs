@@ -1,0 +1,14 @@
+D:\laba_2\AsyncAPI\bin\Debug\net7.0\AsyncAPI.exe
+D:\laba_2\AsyncAPI\bin\Debug\net7.0\AsyncAPI.deps.json
+D:\laba_2\AsyncAPI\bin\Debug\net7.0\AsyncAPI.runtimeconfig.json
+D:\laba_2\AsyncAPI\bin\Debug\net7.0\AsyncAPI.dll
+D:\laba_2\AsyncAPI\bin\Debug\net7.0\AsyncAPI.pdb
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.AssemblyInfoInputs.cache
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.AssemblyInfo.cs
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.csproj.CoreCompileInputs.cache
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.dll
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\refint\AsyncAPI.dll
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.pdb
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\AsyncAPI.genruntimeconfig.cache
+D:\laba_2\AsyncAPI\obj\Debug\net7.0\ref\AsyncAPI.dll
