@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Постфиксный декоратор
 namespace OOP_laba_1_2
 {
     internal class DecorPost : IDateTimeFormatter

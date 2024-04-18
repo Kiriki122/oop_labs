@@ -3,12 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\decorpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\decorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\americandatetimeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|solutionrelative:rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AB05153-7400-408A-92E3-300AB570DD4A}|..\\OOP_laba_1Tests\\OOP_laba_1Tests.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1tests\\rationaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -27,15 +36,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\idatetimeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\decorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\decorpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\kirik\\university\\\u043E\u043E\u043F\\laba-1\\oop_laba_1_2\\americandatetimeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 28,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,55 +53,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tree.cs",
-              "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Tree.cs",
-              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Tree.cs",
-              "ToolTip": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Tree.cs",
-              "RelativeToolTip": "..\\OOP_laba_1_3\\Tree.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:24:06.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Program.cs",
-              "ToolTip": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Program.cs",
-              "RelativeToolTip": "..\\OOP_laba_1_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:24:06.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "DecorPost.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\DecorPost.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\DecorPost.cs",
               "ToolTip": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\DecorPost.cs",
               "RelativeToolTip": "..\\OOP_laba_1_2\\DecorPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:24:06.319Z"
+              "WhenOpened": "2024-04-04T15:24:06.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "DecorPre.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\DecorPre.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\DecorPre.cs",
               "ToolTip": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\DecorPre.cs",
               "RelativeToolTip": "..\\OOP_laba_1_2\\DecorPre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:24:06.321Z"
+              "WhenOpened": "2024-04-04T15:24:06.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "AmericanDateTimeFormatter.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
@@ -109,11 +87,12 @@
               "RelativeToolTip": "..\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:24:06.323Z"
+              "WhenOpened": "2024-04-04T15:24:06.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EuropeanDateTimeFormatter.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\EuropeanDateTimeFormatter.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\EuropeanDateTimeFormatter.cs",
@@ -125,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IDateTimeFormatter.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\IDateTimeFormatter.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\IDateTimeFormatter.cs",
@@ -137,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\Program.cs",
@@ -149,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RationalTests.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1Tests\\RationalTests.cs",
               "RelativeDocumentMoniker": "..\\OOP_laba_1Tests\\RationalTests.cs",
@@ -157,12 +136,11 @@
               "RelativeToolTip": "..\\OOP_laba_1Tests\\RationalTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:24:06.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T15:24:06.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rational.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1\\Rational.cs",
               "RelativeDocumentMoniker": "Rational.cs",
@@ -175,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -185,6 +163,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T15:24:06.336Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Program.cs",
+              "ToolTip": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Program.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:24:06.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Tree.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Tree.cs",
+              "ToolTip": "C:\\Users\\kirik\\University\\\u041E\u041E\u041F\\Laba-1\\OOP_laba_1_3\\Tree.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_3\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:24:06.253Z"
             }
           ]
         }
